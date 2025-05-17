@@ -46,9 +46,7 @@ For example:
              Arabic	Premium	ar-XA	ar-XA-Chirp3-HD-Fenrir	MALE
  
 
-How to..
-
-            https://youtu.be/o0-qkIBnJDs
+How to.. https://youtu.be/o0-qkIBnJDs
 
 
 I'm really having financial difficulties lately, not enough to cover rent and electricity bills.
