@@ -49,7 +49,7 @@ For example:
 
                        How to Get JSON Key from Google Cloud Console
 
-How to.. https://youtu.be/o0-qkIBnJDs
+How to use and various functions : (https://youtu.be/SJyh7CW54WY)
 
 
 🥺I'm really having financial difficulties lately, not enough to cover rent and electricity bills.
