@@ -11,6 +11,8 @@ _internal/
 dist/
 build/
 *.spec
+.bfg-report/
+bfg-*.jar
 
 # Python virtual environment (ถ้าคุณเก็บไว้ใน repository ซึ่งไม่แนะนำ)
 .venv/
