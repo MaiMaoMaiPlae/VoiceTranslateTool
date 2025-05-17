@@ -3,6 +3,7 @@ This voice translation tool supports translation, transcription, and audio trans
 🚴‍♂️Currently, it has the following functions:
 
 1️⃣Voice analysis for gender separation
+
             ✅While transcribing, distinguishes between male and female voices (60-70% accuracy)
 
 2️⃣Transcription with 2 main types, selectable for languages worldwide
