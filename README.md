@@ -44,7 +44,10 @@ For example:
              Arabic	Premium	ar-XA	ar-XA-Chirp3-HD-Aoede	FEMALE
              Arabic	Premium	ar-XA	ar-XA-Chirp3-HD-Charon	MALE
              Arabic	Premium	ar-XA	ar-XA-Chirp3-HD-Fenrir	MALE
- 
+
+ You can find JSON KEY by typing this sentence into YouTube.
+
+                       How to Get JSON Key from Google Cloud Console
 
 How to.. https://youtu.be/o0-qkIBnJDs
 
