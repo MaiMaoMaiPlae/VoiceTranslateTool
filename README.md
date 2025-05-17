@@ -60,6 +60,4 @@ or
 
             https://imgbiz.com/image/494687746-1034091198188409-2650559689811165240-n.WJX2M 
 
-สำหรับคนไทยอยากช่วยเหลือ สามารถโดเนทได้ที่ SCB 418-080-4938 หรือ 
-            
-            [Facebook.com/maimaomaiplae](https://www.facebook.com/maimaomaiplae)
+สำหรับคนไทยอยากช่วยเหลือ สามารถโดเนทได้ที่ SCB 418-080-4938 หรือ Facebook.com/maimaomaiplae](https://www.facebook.com/maimaomaiplae)
