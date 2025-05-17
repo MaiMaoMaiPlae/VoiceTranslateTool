@@ -36,7 +36,9 @@ This tool is complete and ready to use if AI is not used. However, if you want t
 
             1. Google Cloud .json key (you need to sign up for Google Cloud to download the .json key file).
             2. Gemini requires a settings.ini file. Actually, you can use any name; just create a new .txt file and change its extension to .ini, which allows you to enter both free and paid Gemini API Keys.
-            3. Voice files: You can copy the names of each voice from https://cloud.google.com/text-to-speech/docs/list-voices-and-types and paste them into a .txt file. For example:
+            3. Voice files: You can copy the names of each voice from https://cloud.google.com/text-to-speech/docs/list-voices-and-types and paste them into a .txt file.
+
+For example:
 
              Afrikaans (South Africa)	Standard	af-ZA	af-ZA-Standard-A	FEMALE
              Arabic	Premium	ar-XA	ar-XA-Chirp3-HD-Aoede	FEMALE
