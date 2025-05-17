@@ -5,7 +5,23 @@ __pycache__/
 
 # C extensions
 *.so
+# Compiled files and folders from PyInstaller
+*.exe
+_internal/
+dist/
+build/
+*.spec
 
+# Python virtual environment (ถ้าคุณเก็บไว้ใน repository ซึ่งไม่แนะนำ)
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 # Distribution / packaging
 .Python
 build/
