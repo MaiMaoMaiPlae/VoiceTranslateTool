@@ -1,19 +1,35 @@
 This voice translation tool supports translation, transcription, and audio translation for all languages. It's suitable for the AI era that emphasizes speed. It might not translate the nuances of tone as well as the original, perhaps because current AI still needs a bit more development. Looking at this tool, it seems more suitable for game voice modders, 555+.
+
 🚴‍♂️Currently, it has the following functions:
+
 1️⃣Voice analysis for gender separation
+
     ✅While transcribing, distinguishes between male and female voices (60-70% accuracy)
+
 2️⃣Transcription with 2 main types, selectable for languages worldwide
+
    ✅Transcribe with Whisper, with 5 sub-levels of transcription detail (free)
+
    ✅Transcribe with Google Cloud, requires .json key from Google (paid)
+
    ✅Transcribe with Gemini, requires writing key in .ini file (supports Multi key) (both free and paid, depending on the Key)
+
    ✅Supports other APIs, currently no API supported for this transcription part (reserved)
+
 3️⃣ Translation
+
    ✅Can directly translate using Google (selectable for languages worldwide), or import translated TXT from elsewhere (free)
+
 4️⃣Voice synthesis, can choose the output audio format
+
    ✅Options include gTTS (free) and Google Cloud (paid)
+
    ✅Can add channels as needed (1 channel = 1 voice)
+
    ✅Currently only supports Google Cloud (requires .json key)
+
 📌 Channel will be specified in the .txt after transcription as Gender|0|0|, where the third |0| is for specifying the Channel to be used.
+
 📌 📌 In the voice creation section, the free Google voice has only one female voice. No issues found with the length of the generated audio (while Google Cloud seems to have a character limit for audio synthesis, likely around 100 characters).
 
 This tool is complete and ready to use if AI is not used. However, if you want to use AI, you will need additional keys and files, such as:
