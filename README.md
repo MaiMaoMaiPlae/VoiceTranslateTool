@@ -3,22 +3,16 @@ This voice translation tool supports translation, transcription, and audio trans
 🚴‍♂️Currently, it has the following functions:
 
 1️⃣Voice analysis for gender separation
-
-    ✅While transcribing, distinguishes between male and female voices (60-70% accuracy)
+            ✅While transcribing, distinguishes between male and female voices (60-70% accuracy)
 
 2️⃣Transcription with 2 main types, selectable for languages worldwide
-
-   ✅Transcribe with Whisper, with 5 sub-levels of transcription detail (free)
-
-   ✅Transcribe with Google Cloud, requires .json key from Google (paid)
-
-   ✅Transcribe with Gemini, requires writing key in .ini file (supports Multi key) (both free and paid, depending on the Key)
-
-   ✅Supports other APIs, currently no API supported for this transcription part (reserved)
+            ✅Transcribe with Whisper, with 5 sub-levels of transcription detail (free)
+            ✅Transcribe with Google Cloud, requires .json key from Google (paid)
+            ✅Transcribe with Gemini, requires writing key in .ini file (supports Multi key) (both free and paid, depending on the Key)
+            ✅Supports other APIs, currently no API supported for this transcription part (reserved)
 
 3️⃣ Translation
-
-   ✅Can directly translate using Google (selectable for languages worldwide), or import translated TXT from elsewhere (free)
+            ✅Can directly translate using Google (selectable for languages worldwide), or import translated TXT from elsewhere (free)
 
 4️⃣Voice synthesis, can choose the output audio format
 
