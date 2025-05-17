@@ -4,11 +4,8 @@ This tool is complete and ready to use if AI is not used. However, if you want t
  3. Voice files: You can copy the names of each voice from https://cloud.google.com/text-to-speech/docs/list-voices-and-types and paste them into a .txt file. For example:
 
  Afrikaans (South Africa)	Standard	af-ZA	af-ZA-Standard-A	FEMALE
-
  Arabic	Premium	ar-XA	ar-XA-Chirp3-HD-Aoede	FEMALE
-
  Arabic	Premium	ar-XA	ar-XA-Chirp3-HD-Charon	MALE
-
  Arabic	Premium	ar-XA	ar-XA-Chirp3-HD-Fenrir	MALE
 
 
