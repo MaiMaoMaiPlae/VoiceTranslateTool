@@ -6,11 +6,11 @@ __pycache__/
 # C extensions
 *.so
 # Compiled files and folders from PyInstaller
-*.exe
-_internal/
+#*.exe
+#_internal/
 dist/
 build/
-*.spec
+#*.spec
 .bfg-report/
 bfg-*.jar
 
