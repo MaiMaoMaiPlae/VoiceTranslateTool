@@ -49,8 +49,10 @@ For example:
 How to.. https://youtu.be/o0-qkIBnJDs
 
 
-I'm really having financial difficulties lately, not enough to cover rent and electricity bills.
-If you find this tool somewhat useful, you can do so at this USDT QR Code : 
+🥺I'm really having financial difficulties lately, not enough to cover rent and electricity bills.
+If you find this tool somewhat useful, you can do so at this 🥺
+
+USDT QR Code : 
 
             THu1RcJQcxKqo2ePdChHWKp6S3dxXbgBA3
 
