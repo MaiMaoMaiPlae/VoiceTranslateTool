@@ -27,6 +27,7 @@ This voice translation tool supports translation, transcription, and audio trans
                ✅Can add channels as needed (1 channel = 1 voice)
 
                ✅Currently only supports Google Cloud (requires .json key)
+               
 
                      📌 📌 📌 📌 📌 📌 📌 Required files :📌 📌 📌 📌 
 
