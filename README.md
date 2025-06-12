@@ -28,8 +28,10 @@ This voice translation tool supports translation, transcription, and audio trans
 
                ✅Currently only supports Google Cloud (requires .json key)
                
-📌 📌 📌 📌 📌 📌 📌 Required files :📌 📌 📌 📌 
+📌 📌 📌 📌 📌 📌 📌 Required files :📌 📌 📌 📌
 
+               ✅VC_redist.x64.exe ( https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170 )
+               
                ✅VoicesAll.txt (For the list of each sound, you can remove the lines for countries that are not needed.)
 
                ✅settings.ini (For Gemini Key)
