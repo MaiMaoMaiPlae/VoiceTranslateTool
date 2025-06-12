@@ -39,6 +39,7 @@ This voice translation tool supports translation, transcription, and audio trans
 ‼️⁉️‼️⁉️Warning: ‼️⁉️‼️⁉️‼️⁉️‼️⁉️
 
             ‼️⁉️‼️⁉️Warning: Right-click the .exe file and select "Run as administrator" only.‼️⁉️‼️⁉️‼️⁉️‼️⁉️
+            And because the .exe file is large, it may take a moment for the program window to appear after you run it
 
 
 
