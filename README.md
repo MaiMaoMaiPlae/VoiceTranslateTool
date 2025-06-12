@@ -35,6 +35,12 @@ This voice translation tool supports translation, transcription, and audio trans
                ✅VoicesAll.txt (For the list of each sound, you can remove the lines for countries that are not needed.)
 
                ✅settings.ini (For Gemini Key)
+               
+‼️⁉️‼️⁉️Warning: ‼️⁉️‼️⁉️‼️⁉️‼️⁉️
+
+            ‼️⁉️‼️⁉️Warning: Right-click the .exe file and select "Run as administrator" only.‼️⁉️‼️⁉️‼️⁉️‼️⁉️
+
+
 
 📌 Channel will be specified in the .txt after transcription as Gender|0|0|, where the third |0| is for specifying the Channel to be used.
 
