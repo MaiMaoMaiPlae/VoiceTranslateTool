@@ -28,6 +28,12 @@ This voice translation tool supports translation, transcription, and audio trans
 
                ✅Currently only supports Google Cloud (requires .json key)
 
+Required files :
+
+               ✅VoicesAll.txt (For the list of each sound, you can remove the lines for countries that are not needed.)
+
+               ✅settings.ini (For Gemini Key)
+
 📌 Channel will be specified in the .txt after transcription as Gender|0|0|, where the third |0| is for specifying the Channel to be used.
 
 📌 📌 In the voice creation section, the free Google voice has only one female voice. No issues found with the length of the generated audio (while Google Cloud seems to have a character limit for audio synthesis, likely around 100 characters).
