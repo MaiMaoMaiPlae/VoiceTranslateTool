@@ -28,8 +28,7 @@ This voice translation tool supports translation, transcription, and audio trans
 
                ✅Currently only supports Google Cloud (requires .json key)
                
-
-                     📌 📌 📌 📌 📌 📌 📌 Required files :📌 📌 📌 📌 
+📌 📌 📌 📌 📌 📌 📌 Required files :📌 📌 📌 📌 
 
                ✅VoicesAll.txt (For the list of each sound, you can remove the lines for countries that are not needed.)
 
